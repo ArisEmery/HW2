@@ -6,13 +6,23 @@
 
 #IncludeRegexTransform: 
 
-/Users/arisemery/Repositories/cs1440s17-shared/AnalystComparer/Analyst.cpp
+/Users/arisemery/CLionProjects/AnalystComparer/Analyst.cpp
 Analyst.h
-/Users/arisemery/Repositories/cs1440s17-shared/AnalystComparer/Analyst.h
+/Users/arisemery/CLionProjects/AnalystComparer/Analyst.h
 
-/Users/arisemery/Repositories/cs1440s17-shared/AnalystComparer/Analyst.h
+/Users/arisemery/CLionProjects/AnalystComparer/Analyst.h
+iostream
+-
+History.h
+/Users/arisemery/CLionProjects/AnalystComparer/History.h
+fstream
+-
+Utils.h
+/Users/arisemery/CLionProjects/AnalystComparer/Utils.h
+vector
+-
 
-/Users/arisemery/Repositories/cs1440s17-shared/AnalystComparer/Comparer.cpp
+/Users/arisemery/CLionProjects/AnalystComparer/Comparer.cpp
 iostream
 -
 fstream
@@ -20,19 +30,47 @@ fstream
 iomanip
 -
 Comparer.h
-/Users/arisemery/Repositories/cs1440s17-shared/AnalystComparer/Comparer.h
+/Users/arisemery/CLionProjects/AnalystComparer/Comparer.h
 Utils.h
-/Users/arisemery/Repositories/cs1440s17-shared/AnalystComparer/Utils.h
+/Users/arisemery/CLionProjects/AnalystComparer/Utils.h
+Analyst.h
+/Users/arisemery/CLionProjects/AnalystComparer/Analyst.h
 
-/Users/arisemery/Repositories/cs1440s17-shared/AnalystComparer/Comparer.h
+/Users/arisemery/CLionProjects/AnalystComparer/Comparer.h
 fstream
 -
 Constants.h
-/Users/arisemery/Repositories/cs1440s17-shared/AnalystComparer/Constants.h
+/Users/arisemery/CLionProjects/AnalystComparer/Constants.h
+Analyst.h
+/Users/arisemery/CLionProjects/AnalystComparer/Analyst.h
+vector
+-
 
-/Users/arisemery/Repositories/cs1440s17-shared/AnalystComparer/Constants.h
+/Users/arisemery/CLionProjects/AnalystComparer/Constants.h
 
-/Users/arisemery/Repositories/cs1440s17-shared/AnalystComparer/Utils.cpp
+/Users/arisemery/CLionProjects/AnalystComparer/History.cpp
+History.h
+/Users/arisemery/CLionProjects/AnalystComparer/History.h
+
+/Users/arisemery/CLionProjects/AnalystComparer/History.h
+PurchaseSales.h
+/Users/arisemery/CLionProjects/AnalystComparer/PurchaseSales.h
+vector
+-
+
+/Users/arisemery/CLionProjects/AnalystComparer/PurchaseSales.cpp
+PurchaseSales.h
+/Users/arisemery/CLionProjects/AnalystComparer/PurchaseSales.h
+
+/Users/arisemery/CLionProjects/AnalystComparer/PurchaseSales.h
+iostream
+-
+fstream
+-
+Utils.h
+/Users/arisemery/CLionProjects/AnalystComparer/Utils.h
+
+/Users/arisemery/CLionProjects/AnalystComparer/Utils.cpp
 algorithm
 -
 string
@@ -42,17 +80,17 @@ sstream
 fstream
 -
 Utils.h
-/Users/arisemery/Repositories/cs1440s17-shared/AnalystComparer/Utils.h
+/Users/arisemery/CLionProjects/AnalystComparer/Utils.h
 
-/Users/arisemery/Repositories/cs1440s17-shared/AnalystComparer/Utils.h
+/Users/arisemery/CLionProjects/AnalystComparer/Utils.h
 string
 -
 fstream
 -
 
-/Users/arisemery/Repositories/cs1440s17-shared/AnalystComparer/main.cpp
+/Users/arisemery/CLionProjects/AnalystComparer/main.cpp
 Comparer.h
-/Users/arisemery/Repositories/cs1440s17-shared/AnalystComparer/Comparer.h
+/Users/arisemery/CLionProjects/AnalystComparer/Comparer.h
 iostream
 -
 

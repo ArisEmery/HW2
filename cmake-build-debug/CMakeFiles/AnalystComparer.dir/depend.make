@@ -3,16 +3,35 @@
 
 CMakeFiles/AnalystComparer.dir/Analyst.cpp.o: ../Analyst.cpp
 CMakeFiles/AnalystComparer.dir/Analyst.cpp.o: ../Analyst.h
+CMakeFiles/AnalystComparer.dir/Analyst.cpp.o: ../History.h
+CMakeFiles/AnalystComparer.dir/Analyst.cpp.o: ../PurchaseSales.h
+CMakeFiles/AnalystComparer.dir/Analyst.cpp.o: ../Utils.h
 
+CMakeFiles/AnalystComparer.dir/Comparer.cpp.o: ../Analyst.h
 CMakeFiles/AnalystComparer.dir/Comparer.cpp.o: ../Comparer.cpp
 CMakeFiles/AnalystComparer.dir/Comparer.cpp.o: ../Comparer.h
 CMakeFiles/AnalystComparer.dir/Comparer.cpp.o: ../Constants.h
+CMakeFiles/AnalystComparer.dir/Comparer.cpp.o: ../History.h
+CMakeFiles/AnalystComparer.dir/Comparer.cpp.o: ../PurchaseSales.h
 CMakeFiles/AnalystComparer.dir/Comparer.cpp.o: ../Utils.h
+
+CMakeFiles/AnalystComparer.dir/History.cpp.o: ../History.cpp
+CMakeFiles/AnalystComparer.dir/History.cpp.o: ../History.h
+CMakeFiles/AnalystComparer.dir/History.cpp.o: ../PurchaseSales.h
+CMakeFiles/AnalystComparer.dir/History.cpp.o: ../Utils.h
+
+CMakeFiles/AnalystComparer.dir/PurchaseSales.cpp.o: ../PurchaseSales.cpp
+CMakeFiles/AnalystComparer.dir/PurchaseSales.cpp.o: ../PurchaseSales.h
+CMakeFiles/AnalystComparer.dir/PurchaseSales.cpp.o: ../Utils.h
 
 CMakeFiles/AnalystComparer.dir/Utils.cpp.o: ../Utils.cpp
 CMakeFiles/AnalystComparer.dir/Utils.cpp.o: ../Utils.h
 
+CMakeFiles/AnalystComparer.dir/main.cpp.o: ../Analyst.h
 CMakeFiles/AnalystComparer.dir/main.cpp.o: ../Comparer.h
 CMakeFiles/AnalystComparer.dir/main.cpp.o: ../Constants.h
+CMakeFiles/AnalystComparer.dir/main.cpp.o: ../History.h
+CMakeFiles/AnalystComparer.dir/main.cpp.o: ../PurchaseSales.h
+CMakeFiles/AnalystComparer.dir/main.cpp.o: ../Utils.h
 CMakeFiles/AnalystComparer.dir/main.cpp.o: ../main.cpp
 

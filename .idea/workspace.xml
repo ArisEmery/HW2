@@ -13,173 +13,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="719121d9-3a04-4674-a052-88e566c4dde1" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/Bingo.dir/CXX.includecache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/Bingo.dir/Deck.cpp.o" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/Bingo.dir/Menu.cpp.o" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/Bingo.dir/MenuOption.cpp.o" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/Bingo.dir/UserInterface.cpp.o" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/Bingo.dir/depend.internal" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/Bingo.dir/main.cpp.o" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/Test.dir/CXX.includecache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/Test.dir/Deck.cpp.o" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/Test.dir/Menu.cpp.o" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/Test.dir/MenuOption.cpp.o" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/Test.dir/Testing/MenuOptionTester.cpp.o" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/Test.dir/Testing/MenuTester.cpp.o" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/Test.dir/Testing/testMain.cpp.o" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/Test.dir/UserInterface.cpp.o" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/Test.dir/depend.internal" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.6.3/CMakeDetermineCompilerABI_C.bin" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.6.3/CMakeDetermineCompilerABI_C.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.6.3/CMakeDetermineCompilerABI_CXX.bin" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.6.3/CMakeDetermineCompilerABI_CXX.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.6.3/CompilerIdC/a.out" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.6.3/CompilerIdC/a.out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.6.3/CompilerIdCXX/a.out" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.6.3/CompilerIdCXX/a.out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.bin" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/3.6.3/CMakeDetermineCompilerABI_C.bin" afterPath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/3.6.3/CMakeDetermineCompilerABI_C.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/3.6.3/CMakeDetermineCompilerABI_CXX.bin" afterPath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/3.6.3/CMakeDetermineCompilerABI_CXX.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/3.6.3/CompilerIdC/a.out" afterPath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/3.6.3/CompilerIdC/a.out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/3.6.3/CompilerIdCXX/a.out" afterPath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/3.6.3/CompilerIdCXX/a.out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/feature_tests.bin" afterPath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/feature_tests.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Examples/GpaAnalyzer/GpaAnalyzer-V2-Better/cmake-build-debug/CMakeFiles/3.6.3/CMakeDetermineCompilerABI_C.bin" afterPath="$PROJECT_DIR$/../Examples/GpaAnalyzer/GpaAnalyzer-V2-Better/cmake-build-debug/CMakeFiles/3.6.3/CMakeDetermineCompilerABI_C.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Examples/GpaAnalyzer/GpaAnalyzer-V2-Better/cmake-build-debug/CMakeFiles/3.6.3/CMakeDetermineCompilerABI_CXX.bin" afterPath="$PROJECT_DIR$/../Examples/GpaAnalyzer/GpaAnalyzer-V2-Better/cmake-build-debug/CMakeFiles/3.6.3/CMakeDetermineCompilerABI_CXX.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Examples/GpaAnalyzer/GpaAnalyzer-V2-Better/cmake-build-debug/CMakeFiles/3.6.3/CompilerIdC/a.out" afterPath="$PROJECT_DIR$/../Examples/GpaAnalyzer/GpaAnalyzer-V2-Better/cmake-build-debug/CMakeFiles/3.6.3/CompilerIdC/a.out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Examples/GpaAnalyzer/GpaAnalyzer-V2-Better/cmake-build-debug/CMakeFiles/3.6.3/CompilerIdCXX/a.out" afterPath="$PROJECT_DIR$/../Examples/GpaAnalyzer/GpaAnalyzer-V2-Better/cmake-build-debug/CMakeFiles/3.6.3/CompilerIdCXX/a.out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Examples/GpaAnalyzer/GpaAnalyzer-V2-Better/cmake-build-debug/CMakeFiles/GpaAnalyzer.dir/main.cpp.o" afterPath="$PROJECT_DIR$/../Examples/GpaAnalyzer/GpaAnalyzer-V2-Better/cmake-build-debug/CMakeFiles/GpaAnalyzer.dir/main.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Examples/GpaAnalyzer/GpaAnalyzer-V2-Better/cmake-build-debug/CMakeFiles/feature_tests.bin" afterPath="$PROJECT_DIR$/../Examples/GpaAnalyzer/GpaAnalyzer-V2-Better/cmake-build-debug/CMakeFiles/feature_tests.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Examples/GpaAnalyzer/GpaAnalyzer-V2-Better/cmake-build-debug/GpaAnalyzer" afterPath="$PROJECT_DIR$/../Examples/GpaAnalyzer/GpaAnalyzer-V2-Better/cmake-build-debug/GpaAnalyzer" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../GeoRegions/cmake-build-debug/CMakeFiles/3.6.3/CMakeDetermineCompilerABI_C.bin" afterPath="$PROJECT_DIR$/../GeoRegions/cmake-build-debug/CMakeFiles/3.6.3/CMakeDetermineCompilerABI_C.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../GeoRegions/cmake-build-debug/CMakeFiles/3.6.3/CMakeDetermineCompilerABI_CXX.bin" afterPath="$PROJECT_DIR$/../GeoRegions/cmake-build-debug/CMakeFiles/3.6.3/CMakeDetermineCompilerABI_CXX.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../GeoRegions/cmake-build-debug/CMakeFiles/3.6.3/CompilerIdC/a.out" afterPath="$PROJECT_DIR$/../GeoRegions/cmake-build-debug/CMakeFiles/3.6.3/CompilerIdC/a.out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../GeoRegions/cmake-build-debug/CMakeFiles/3.6.3/CompilerIdCXX/a.out" afterPath="$PROJECT_DIR$/../GeoRegions/cmake-build-debug/CMakeFiles/3.6.3/CompilerIdCXX/a.out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../GeoRegions/cmake-build-debug/CMakeFiles/GeoRegions.dir/City.cpp.o" afterPath="$PROJECT_DIR$/../GeoRegions/cmake-build-debug/CMakeFiles/GeoRegions.dir/City.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../GeoRegions/cmake-build-debug/CMakeFiles/GeoRegions.dir/County.cpp.o" afterPath="$PROJECT_DIR$/../GeoRegions/cmake-build-debug/CMakeFiles/GeoRegions.dir/County.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../GeoRegions/cmake-build-debug/CMakeFiles/GeoRegions.dir/CountyUserInterface.cpp.o" afterPath="$PROJECT_DIR$/../GeoRegions/cmake-build-debug/CMakeFiles/GeoRegions.dir/CountyUserInterface.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../GeoRegions/cmake-build-debug/CMakeFiles/GeoRegions.dir/Menu.cpp.o" afterPath="$PROJECT_DIR$/../GeoRegions/cmake-build-debug/CMakeFiles/GeoRegions.dir/Menu.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../GeoRegions/cmake-build-debug/CMakeFiles/GeoRegions.dir/MenuOption.cpp.o" afterPath="$PROJECT_DIR$/../GeoRegions/cmake-build-debug/CMakeFiles/GeoRegions.dir/MenuOption.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../GeoRegions/cmake-build-debug/CMakeFiles/GeoRegions.dir/Nation.cpp.o" afterPath="$PROJECT_DIR$/../GeoRegions/cmake-build-debug/CMakeFiles/GeoRegions.dir/Nation.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../GeoRegions/cmake-build-debug/CMakeFiles/GeoRegions.dir/NationUserInterface.cpp.o" afterPath="$PROJECT_DIR$/../GeoRegions/cmake-build-debug/CMakeFiles/GeoRegions.dir/NationUserInterface.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../GeoRegions/cmake-build-debug/CMakeFiles/GeoRegions.dir/Region.cpp.o" afterPath="$PROJECT_DIR$/../GeoRegions/cmake-build-debug/CMakeFiles/GeoRegions.dir/Region.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../GeoRegions/cmake-build-debug/CMakeFiles/GeoRegions.dir/State.cpp.o" afterPath="$PROJECT_DIR$/../GeoRegions/cmake-build-debug/CMakeFiles/GeoRegions.dir/State.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../GeoRegions/cmake-build-debug/CMakeFiles/GeoRegions.dir/StateUserInterface.cpp.o" afterPath="$PROJECT_DIR$/../GeoRegions/cmake-build-debug/CMakeFiles/GeoRegions.dir/StateUserInterface.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../GeoRegions/cmake-build-debug/CMakeFiles/GeoRegions.dir/UserInterface.cpp.o" afterPath="$PROJECT_DIR$/../GeoRegions/cmake-build-debug/CMakeFiles/GeoRegions.dir/UserInterface.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../GeoRegions/cmake-build-debug/CMakeFiles/GeoRegions.dir/Utils.cpp.o" afterPath="$PROJECT_DIR$/../GeoRegions/cmake-build-debug/CMakeFiles/GeoRegions.dir/Utils.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../GeoRegions/cmake-build-debug/CMakeFiles/GeoRegions.dir/World.cpp.o" afterPath="$PROJECT_DIR$/../GeoRegions/cmake-build-debug/CMakeFiles/GeoRegions.dir/World.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../GeoRegions/cmake-build-debug/CMakeFiles/GeoRegions.dir/WorldUserInterface.cpp.o" afterPath="$PROJECT_DIR$/../GeoRegions/cmake-build-debug/CMakeFiles/GeoRegions.dir/WorldUserInterface.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../GeoRegions/cmake-build-debug/CMakeFiles/GeoRegions.dir/main.cpp.o" afterPath="$PROJECT_DIR$/../GeoRegions/cmake-build-debug/CMakeFiles/GeoRegions.dir/main.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../GeoRegions/cmake-build-debug/CMakeFiles/feature_tests.bin" afterPath="$PROJECT_DIR$/../GeoRegions/cmake-build-debug/CMakeFiles/feature_tests.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../GeoRegions/cmake-build-debug/GeoRegions" afterPath="$PROJECT_DIR$/../GeoRegions/cmake-build-debug/GeoRegions" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../GeoRegions/cmake-build-debug/Test" afterPath="$PROJECT_DIR$/../GeoRegions/cmake-build-debug/Test" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CMakeLists.txt" afterPath="$PROJECT_DIR$/CMakeLists.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/AnalystComparer.cbp" afterPath="$PROJECT_DIR$/cmake-build-debug/AnalystComparer.cbp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.6.3/CMakeCCompiler.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.6.3/CMakeCCompiler.cmake" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.6.3/CMakeCXXCompiler.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.6.3/CMakeCXXCompiler.cmake" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.6.3/CMakeSystem.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.6.3/CMakeSystem.cmake" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AnalystComparer.dir/DependInfo.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AnalystComparer.dir/DependInfo.cmake" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AnalystComparer.dir/build.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AnalystComparer.dir/build.make" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AnalystComparer.dir/cmake_clean.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AnalystComparer.dir/cmake_clean.cmake" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AnalystComparer.dir/depend.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AnalystComparer.dir/depend.make" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AnalystComparer.dir/flags.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AnalystComparer.dir/flags.make" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AnalystComparer.dir/link.txt" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AnalystComparer.dir/link.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AnalystComparer.dir/progress.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AnalystComparer.dir/progress.make" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main.cpp" afterPath="$PROJECT_DIR$/main.cpp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Bingo/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Bingo/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Bingo/cmake-build-debug/Bingo.cbp" afterPath="$PROJECT_DIR$/../Bingo/cmake-build-debug/Bingo.cbp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeCache.txt" afterPath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeCache.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/3.6.3/CMakeCCompiler.cmake" afterPath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/3.6.3/CMakeCCompiler.cmake" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/3.6.3/CMakeCXXCompiler.cmake" afterPath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/3.6.3/CMakeCXXCompiler.cmake" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/3.6.3/CMakeSystem.cmake" afterPath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/3.6.3/CMakeSystem.cmake" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/Bingo.dir/DependInfo.cmake" afterPath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/Bingo.dir/DependInfo.cmake" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/Bingo.dir/build.make" afterPath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/Bingo.dir/build.make" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/Bingo.dir/depend.make" afterPath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/Bingo.dir/depend.make" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/Bingo.dir/flags.make" afterPath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/Bingo.dir/flags.make" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/Bingo.dir/link.txt" afterPath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/Bingo.dir/link.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterPath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/Makefile.cmake" afterPath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/Makefile.cmake" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/Makefile2" afterPath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/Makefile2" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterPath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/TargetDirectories.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/Test.dir/DependInfo.cmake" afterPath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/Test.dir/DependInfo.cmake" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/Test.dir/build.make" afterPath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/Test.dir/build.make" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/Test.dir/depend.make" afterPath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/Test.dir/depend.make" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/Test.dir/flags.make" afterPath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/Test.dir/flags.make" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/Test.dir/link.txt" afterPath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/Test.dir/link.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/clion-log.txt" afterPath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/clion-log.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Bingo/cmake-build-debug/Makefile" afterPath="$PROJECT_DIR$/../Bingo/cmake-build-debug/Makefile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Bingo/cmake-build-debug/cmake_install.cmake" afterPath="$PROJECT_DIR$/../Bingo/cmake-build-debug/cmake_install.cmake" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Examples/GpaAnalyzer/GpaAnalyzer-V2-Better/.idea/GpaAnalyzer-V2-Better.iml" afterPath="$PROJECT_DIR$/../Examples/GpaAnalyzer/GpaAnalyzer-V2-Better/.idea/GpaAnalyzer-V2-Better.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Examples/GpaAnalyzer/GpaAnalyzer-V2-Better/.idea/misc.xml" afterPath="$PROJECT_DIR$/../Examples/GpaAnalyzer/GpaAnalyzer-V2-Better/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Examples/GpaAnalyzer/GpaAnalyzer-V2-Better/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Examples/GpaAnalyzer/GpaAnalyzer-V2-Better/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Examples/GpaAnalyzer/GpaAnalyzer-V2-Better/cmake-build-debug/CMakeCache.txt" afterPath="$PROJECT_DIR$/../Examples/GpaAnalyzer/GpaAnalyzer-V2-Better/cmake-build-debug/CMakeCache.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Examples/GpaAnalyzer/GpaAnalyzer-V2-Better/cmake-build-debug/CMakeFiles/3.6.3/CMakeCCompiler.cmake" afterPath="$PROJECT_DIR$/../Examples/GpaAnalyzer/GpaAnalyzer-V2-Better/cmake-build-debug/CMakeFiles/3.6.3/CMakeCCompiler.cmake" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Examples/GpaAnalyzer/GpaAnalyzer-V2-Better/cmake-build-debug/CMakeFiles/3.6.3/CMakeCXXCompiler.cmake" afterPath="$PROJECT_DIR$/../Examples/GpaAnalyzer/GpaAnalyzer-V2-Better/cmake-build-debug/CMakeFiles/3.6.3/CMakeCXXCompiler.cmake" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Examples/GpaAnalyzer/GpaAnalyzer-V2-Better/cmake-build-debug/CMakeFiles/3.6.3/CMakeSystem.cmake" afterPath="$PROJECT_DIR$/../Examples/GpaAnalyzer/GpaAnalyzer-V2-Better/cmake-build-debug/CMakeFiles/3.6.3/CMakeSystem.cmake" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Examples/GpaAnalyzer/GpaAnalyzer-V2-Better/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterPath="$PROJECT_DIR$/../Examples/GpaAnalyzer/GpaAnalyzer-V2-Better/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Examples/GpaAnalyzer/GpaAnalyzer-V2-Better/cmake-build-debug/CMakeFiles/GpaAnalyzer.dir/CXX.includecache" afterPath="$PROJECT_DIR$/../Examples/GpaAnalyzer/GpaAnalyzer-V2-Better/cmake-build-debug/CMakeFiles/GpaAnalyzer.dir/CXX.includecache" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Examples/GpaAnalyzer/GpaAnalyzer-V2-Better/cmake-build-debug/CMakeFiles/GpaAnalyzer.dir/DependInfo.cmake" afterPath="$PROJECT_DIR$/../Examples/GpaAnalyzer/GpaAnalyzer-V2-Better/cmake-build-debug/CMakeFiles/GpaAnalyzer.dir/DependInfo.cmake" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Examples/GpaAnalyzer/GpaAnalyzer-V2-Better/cmake-build-debug/CMakeFiles/GpaAnalyzer.dir/build.make" afterPath="$PROJECT_DIR$/../Examples/GpaAnalyzer/GpaAnalyzer-V2-Better/cmake-build-debug/CMakeFiles/GpaAnalyzer.dir/build.make" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Examples/GpaAnalyzer/GpaAnalyzer-V2-Better/cmake-build-debug/CMakeFiles/GpaAnalyzer.dir/cmake_clean.cmake" afterPath="$PROJECT_DIR$/../Examples/GpaAnalyzer/GpaAnalyzer-V2-Better/cmake-build-debug/CMakeFiles/GpaAnalyzer.dir/cmake_clean.cmake" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Examples/GpaAnalyzer/GpaAnalyzer-V2-Better/cmake-build-debug/CMakeFiles/GpaAnalyzer.dir/depend.internal" afterPath="$PROJECT_DIR$/../Examples/GpaAnalyzer/GpaAnalyzer-V2-Better/cmake-build-debug/CMakeFiles/GpaAnalyzer.dir/depend.internal" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Examples/GpaAnalyzer/GpaAnalyzer-V2-Better/cmake-build-debug/CMakeFiles/GpaAnalyzer.dir/depend.make" afterPath="$PROJECT_DIR$/../Examples/GpaAnalyzer/GpaAnalyzer-V2-Better/cmake-build-debug/CMakeFiles/GpaAnalyzer.dir/depend.make" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Examples/GpaAnalyzer/GpaAnalyzer-V2-Better/cmake-build-debug/CMakeFiles/GpaAnalyzer.dir/flags.make" afterPath="$PROJECT_DIR$/../Examples/GpaAnalyzer/GpaAnalyzer-V2-Better/cmake-build-debug/CMakeFiles/GpaAnalyzer.dir/flags.make" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Examples/GpaAnalyzer/GpaAnalyzer-V2-Better/cmake-build-debug/CMakeFiles/GpaAnalyzer.dir/link.txt" afterPath="$PROJECT_DIR$/../Examples/GpaAnalyzer/GpaAnalyzer-V2-Better/cmake-build-debug/CMakeFiles/GpaAnalyzer.dir/link.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Examples/GpaAnalyzer/GpaAnalyzer-V2-Better/cmake-build-debug/CMakeFiles/GpaAnalyzer.dir/progress.make" afterPath="$PROJECT_DIR$/../Examples/GpaAnalyzer/GpaAnalyzer-V2-Better/cmake-build-debug/CMakeFiles/GpaAnalyzer.dir/progress.make" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Examples/GpaAnalyzer/GpaAnalyzer-V2-Better/cmake-build-debug/CMakeFiles/Makefile2" afterPath="$PROJECT_DIR$/../Examples/GpaAnalyzer/GpaAnalyzer-V2-Better/cmake-build-debug/CMakeFiles/Makefile2" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Examples/GpaAnalyzer/GpaAnalyzer-V2-Better/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterPath="$PROJECT_DIR$/../Examples/GpaAnalyzer/GpaAnalyzer-V2-Better/cmake-build-debug/CMakeFiles/TargetDirectories.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Examples/GpaAnalyzer/GpaAnalyzer-V2-Better/cmake-build-debug/CMakeFiles/clion-log.txt" afterPath="$PROJECT_DIR$/../Examples/GpaAnalyzer/GpaAnalyzer-V2-Better/cmake-build-debug/CMakeFiles/clion-log.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Examples/GpaAnalyzer/GpaAnalyzer-V2-Better/cmake-build-debug/CMakeFiles/progress.marks" afterPath="$PROJECT_DIR$/../Examples/GpaAnalyzer/GpaAnalyzer-V2-Better/cmake-build-debug/CMakeFiles/progress.marks" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Examples/GpaAnalyzer/GpaAnalyzer-V2-Better/cmake-build-debug/GpaAnalyzer.cbp" afterPath="$PROJECT_DIR$/../Examples/GpaAnalyzer/GpaAnalyzer-V2-Better/cmake-build-debug/GpaAnalyzer.cbp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Examples/GpaAnalyzer/GpaAnalyzer-V2-Better/cmake-build-debug/Makefile" afterPath="$PROJECT_DIR$/../Examples/GpaAnalyzer/GpaAnalyzer-V2-Better/cmake-build-debug/Makefile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Examples/GpaAnalyzer/GpaAnalyzer-V2-Better/cmake-build-debug/cmake_install.cmake" afterPath="$PROJECT_DIR$/../Examples/GpaAnalyzer/GpaAnalyzer-V2-Better/cmake-build-debug/cmake_install.cmake" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../GeoRegions/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../GeoRegions/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../GeoRegions/City.cpp" afterPath="$PROJECT_DIR$/../GeoRegions/City.cpp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../GeoRegions/City.h" afterPath="$PROJECT_DIR$/../GeoRegions/City.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../GeoRegions/County.cpp" afterPath="$PROJECT_DIR$/../GeoRegions/County.cpp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../GeoRegions/County.h" afterPath="$PROJECT_DIR$/../GeoRegions/County.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../GeoRegions/NationUserInterface.cpp" afterPath="$PROJECT_DIR$/../GeoRegions/NationUserInterface.cpp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../GeoRegions/Nations.txt" afterPath="$PROJECT_DIR$/../GeoRegions/Nations.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../GeoRegions/Region.cpp" afterPath="$PROJECT_DIR$/../GeoRegions/Region.cpp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../GeoRegions/Region.h" afterPath="$PROJECT_DIR$/../GeoRegions/Region.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../GeoRegions/State.cpp" afterPath="$PROJECT_DIR$/../GeoRegions/State.cpp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../GeoRegions/State.h" afterPath="$PROJECT_DIR$/../GeoRegions/State.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../GeoRegions/Testing/RegionTester.cpp" afterPath="$PROJECT_DIR$/../GeoRegions/Testing/RegionTester.cpp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../GeoRegions/Testing/testMain.cpp" afterPath="$PROJECT_DIR$/../GeoRegions/Testing/testMain.cpp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../GeoRegions/UserInterface.cpp" afterPath="$PROJECT_DIR$/../GeoRegions/UserInterface.cpp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../GeoRegions/UserInterface.h" afterPath="$PROJECT_DIR$/../GeoRegions/UserInterface.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../GeoRegions/World.cpp" afterPath="$PROJECT_DIR$/../GeoRegions/World.cpp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../GeoRegions/World.h" afterPath="$PROJECT_DIR$/../GeoRegions/World.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../GeoRegions/cmake-build-debug/CMakeCache.txt" afterPath="$PROJECT_DIR$/../GeoRegions/cmake-build-debug/CMakeCache.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../GeoRegions/cmake-build-debug/CMakeFiles/3.6.3/CMakeCCompiler.cmake" afterPath="$PROJECT_DIR$/../GeoRegions/cmake-build-debug/CMakeFiles/3.6.3/CMakeCCompiler.cmake" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../GeoRegions/cmake-build-debug/CMakeFiles/3.6.3/CMakeCXXCompiler.cmake" afterPath="$PROJECT_DIR$/../GeoRegions/cmake-build-debug/CMakeFiles/3.6.3/CMakeCXXCompiler.cmake" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../GeoRegions/cmake-build-debug/CMakeFiles/3.6.3/CMakeSystem.cmake" afterPath="$PROJECT_DIR$/../GeoRegions/cmake-build-debug/CMakeFiles/3.6.3/CMakeSystem.cmake" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../GeoRegions/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterPath="$PROJECT_DIR$/../GeoRegions/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../GeoRegions/cmake-build-debug/CMakeFiles/GeoRegions.dir/CXX.includecache" afterPath="$PROJECT_DIR$/../GeoRegions/cmake-build-debug/CMakeFiles/GeoRegions.dir/CXX.includecache" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../GeoRegions/cmake-build-debug/CMakeFiles/GeoRegions.dir/DependInfo.cmake" afterPath="$PROJECT_DIR$/../GeoRegions/cmake-build-debug/CMakeFiles/GeoRegions.dir/DependInfo.cmake" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../GeoRegions/cmake-build-debug/CMakeFiles/GeoRegions.dir/build.make" afterPath="$PROJECT_DIR$/../GeoRegions/cmake-build-debug/CMakeFiles/GeoRegions.dir/build.make" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../GeoRegions/cmake-build-debug/CMakeFiles/GeoRegions.dir/depend.internal" afterPath="$PROJECT_DIR$/../GeoRegions/cmake-build-debug/CMakeFiles/GeoRegions.dir/depend.internal" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../GeoRegions/cmake-build-debug/CMakeFiles/GeoRegions.dir/depend.make" afterPath="$PROJECT_DIR$/../GeoRegions/cmake-build-debug/CMakeFiles/GeoRegions.dir/depend.make" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../GeoRegions/cmake-build-debug/CMakeFiles/GeoRegions.dir/flags.make" afterPath="$PROJECT_DIR$/../GeoRegions/cmake-build-debug/CMakeFiles/GeoRegions.dir/flags.make" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../GeoRegions/cmake-build-debug/CMakeFiles/GeoRegions.dir/link.txt" afterPath="$PROJECT_DIR$/../GeoRegions/cmake-build-debug/CMakeFiles/GeoRegions.dir/link.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../GeoRegions/cmake-build-debug/CMakeFiles/Makefile.cmake" afterPath="$PROJECT_DIR$/../GeoRegions/cmake-build-debug/CMakeFiles/Makefile.cmake" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../GeoRegions/cmake-build-debug/CMakeFiles/Makefile2" afterPath="$PROJECT_DIR$/../GeoRegions/cmake-build-debug/CMakeFiles/Makefile2" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../GeoRegions/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterPath="$PROJECT_DIR$/../GeoRegions/cmake-build-debug/CMakeFiles/TargetDirectories.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../GeoRegions/cmake-build-debug/CMakeFiles/Test.dir/DependInfo.cmake" afterPath="$PROJECT_DIR$/../GeoRegions/cmake-build-debug/CMakeFiles/Test.dir/DependInfo.cmake" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../GeoRegions/cmake-build-debug/CMakeFiles/Test.dir/build.make" afterPath="$PROJECT_DIR$/../GeoRegions/cmake-build-debug/CMakeFiles/Test.dir/build.make" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../GeoRegions/cmake-build-debug/CMakeFiles/Test.dir/depend.make" afterPath="$PROJECT_DIR$/../GeoRegions/cmake-build-debug/CMakeFiles/Test.dir/depend.make" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../GeoRegions/cmake-build-debug/CMakeFiles/Test.dir/flags.make" afterPath="$PROJECT_DIR$/../GeoRegions/cmake-build-debug/CMakeFiles/Test.dir/flags.make" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../GeoRegions/cmake-build-debug/CMakeFiles/Test.dir/link.txt" afterPath="$PROJECT_DIR$/../GeoRegions/cmake-build-debug/CMakeFiles/Test.dir/link.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../GeoRegions/cmake-build-debug/CMakeFiles/clion-log.txt" afterPath="$PROJECT_DIR$/../GeoRegions/cmake-build-debug/CMakeFiles/clion-log.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../GeoRegions/cmake-build-debug/GeoRegions.cbp" afterPath="$PROJECT_DIR$/../GeoRegions/cmake-build-debug/GeoRegions.cbp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../GeoRegions/cmake-build-debug/Makefile" afterPath="$PROJECT_DIR$/../GeoRegions/cmake-build-debug/Makefile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../GeoRegions/cmake-build-debug/cmake_install.cmake" afterPath="$PROJECT_DIR$/../GeoRegions/cmake-build-debug/cmake_install.cmake" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../GeoRegions/main.cpp" afterPath="$PROJECT_DIR$/../GeoRegions/main.cpp" />
+      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/templates/C_C__.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -198,33 +32,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="main.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/main.cpp">
+      <file leaf-file-name="Comparer.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Comparer.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="27" lean-forward="false" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+            <state relative-caret-position="109">
+              <caret line="201" column="0" lean-forward="false" selection-start-line="201" selection-start-column="0" selection-end-line="201" selection-end-column="0" />
               <folding>
-                <element signature="e#0#21#0" expanded="true" />
+                <element signature="e#47#66#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Comparer.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Comparer.cpp">
+      <file leaf-file-name="Constants.h" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Constants.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="313">
-              <caret line="50" column="0" lean-forward="false" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Analyst.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Analyst.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="150">
+              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -233,15 +57,17 @@
       <file leaf-file-name="Analyst.h" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Analyst.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="22" lean-forward="false" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
-              <folding />
+            <state relative-caret-position="315">
+              <caret line="27" column="21" lean-forward="true" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+              <folding>
+                <element signature="e#113#132#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="History.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/History.cpp">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -253,8 +79,42 @@
       <file leaf-file-name="History.h" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/History.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="40" lean-forward="false" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
+            <state relative-caret-position="180">
+              <caret line="12" column="13" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+              <folding>
+                <element signature="e#114#140#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="trs.csv" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/trs.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="101">
+              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PurchaseSales.h" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PurchaseSales.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="326">
+              <caret line="23" column="11" lean-forward="false" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
+              <folding>
+                <element signature="e#125#144#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Utils.h" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Utils.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="10" column="5" lean-forward="false" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -263,18 +123,8 @@
       <file leaf-file-name="PurchaseSales.cpp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PurchaseSales.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PurchaseSales.h" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/PurchaseSales.h">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+            <state relative-caret-position="270">
+              <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -283,27 +133,34 @@
       <file leaf-file-name="Comparer.h" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Comparer.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="371">
-              <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CMakeLists.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="101" lean-forward="false" selection-start-line="5" selection-start-column="101" selection-end-line="5" selection-end-column="101" />
-              <folding />
+            <state relative-caret-position="238">
+              <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+              <folding>
+                <element signature="e#114#132#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>inputStream</find>
+      <find>i</find>
+      <find>convert</find>
+      <find>[</find>
+      <find>m_symbols</find>
+      <find>m_analyst</find>
+      <find>m_analysts</find>
+      <find>ofstream</find>
+      <find>setw</find>
+      <find>\n</find>
+      <find>endl</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -313,25 +170,28 @@
         <option value="$PROJECT_DIR$/RankerAndComparer.h" />
         <option value="$PROJECT_DIR$/Data/trs.csv" />
         <option value="$PROJECT_DIR$/RankerAndComparer.cpp" />
-        <option value="$PROJECT_DIR$/History.cpp" />
-        <option value="$PROJECT_DIR$/Utils.h" />
         <option value="$PROJECT_DIR$/Constants.h.h" />
         <option value="$PROJECT_DIR$/Data/sjl.csv" />
-        <option value="$PROJECT_DIR$/Data/mgr.csv" />
         <option value="$PROJECT_DIR$/ExpectedOutput/scenario2.txt" />
         <option value="$PROJECT_DIR$/ExpectedOutput/scenario1.txt" />
         <option value="$PROJECT_DIR$/PurchaseSale.cpp" />
         <option value="$PROJECT_DIR$/PurchaseSale.h" />
-        <option value="$PROJECT_DIR$/Analyst.cpp" />
         <option value="$PROJECT_DIR$/scenario1.txt" />
         <option value="$PROJECT_DIR$/Constants.h" />
-        <option value="$PROJECT_DIR$/Comparer.h" />
-        <option value="$PROJECT_DIR$/Comparer.cpp" />
-        <option value="$PROJECT_DIR$/Utils.cpp" />
         <option value="$PROJECT_DIR$/CMakeLists.txt" />
-        <option value="$PROJECT_DIR$/main.cpp" />
-        <option value="$PROJECT_DIR$/Analyst.h" />
+        <option value="$PROJECT_DIR$/Utils.cpp" />
+        <option value="$PROJECT_DIR$/Utils.h" />
         <option value="$PROJECT_DIR$/History.h" />
+        <option value="$PROJECT_DIR$/History.cpp" />
+        <option value="$PROJECT_DIR$/main.cpp" />
+        <option value="$PROJECT_DIR$/Data/mgr.csv" />
+        <option value="$PROJECT_DIR$/Comparer.h" />
+        <option value="$PROJECT_DIR$/PurchaseSales.cpp" />
+        <option value="$PROJECT_DIR$/Analyst.h" />
+        <option value="$PROJECT_DIR$/Analyst.cpp" />
+        <option value="$PROJECT_DIR$/Comparer.cpp" />
+        <option value="$PROJECT_DIR$/trs.csv" />
+        <option value="$PROJECT_DIR$/PurchaseSales.h" />
       </list>
     </option>
   </component>
@@ -343,9 +203,10 @@
   </component>
   <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
   <component name="ProjectFrameBounds">
+    <option name="x" value="22" />
     <option name="y" value="23" />
-    <option name="width" value="1280" />
-    <option name="height" value="731" />
+    <option name="width" value="812" />
+    <option name="height" value="730" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -387,7 +248,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Data" />
+              <option name="myItemId" value="ExpectedOutput" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -400,7 +261,8 @@
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
     <property name="js.eslint.eslintPackage" value="" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
-    <property name="settings.editor.selected.configurable" value="CPPToolchains" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="SearchEverywhereHistoryKey" value="m_analysts&#9;null&#9;null" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -583,13 +445,21 @@
       <envs />
       <method />
     </configuration>
-    <list size="2">
+    <configuration default="false" name="config2" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="sjl.csv trs.csv" WORKING_DIR="file://$PROJECT_DIR$" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AnalystComparer" TARGET_NAME="AnalystComparer" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AnalystComparer" RUN_TARGET_NAME="AnalystComparer">
+      <envs />
+      <method />
+    </configuration>
+    <list size="3">
       <item index="0" class="java.lang.String" itemvalue="Application.Build All" />
       <item index="1" class="java.lang.String" itemvalue="Application.AnalystComparer" />
+      <item index="2" class="java.lang.String" itemvalue="Application.config2" />
     </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -623,33 +493,34 @@
       <workItem from="1485891580417" duration="5000" />
       <workItem from="1486092442597" duration="145000" />
       <workItem from="1493340849534" duration="2048000" />
+      <workItem from="1493344853065" duration="27999000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31316000" />
+    <option name="totallyTimeSpent" value="59315000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="731" extended-state="6" />
-    <editor active="true" />
+    <frame x="22" y="23" width="812" height="730" extended-state="0" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21604449" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3426043" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2801252" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27899686" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292797" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286385" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286385" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3275862" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39906102" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39811912" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286385" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -689,7 +560,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="23" />
+      <option name="time" value="65" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="CMakeRunConfiguration">
@@ -698,31 +569,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/History.cpp" />
-    <entry file="file://$PROJECT_DIR$/Comparer.cpp" />
-    <entry file="file://$PROJECT_DIR$/History.h" />
-    <entry file="file://$PROJECT_DIR$/Data/trs.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/History.cpp" />
-    <entry file="file://$PROJECT_DIR$/History.h" />
-    <entry file="file://$PROJECT_DIR$/Analyst.h" />
-    <entry file="file://$PROJECT_DIR$/History.h" />
-    <entry file="file://$PROJECT_DIR$/History.cpp" />
     <entry file="file://$PROJECT_DIR$/PurchaseSale.h" />
     <entry file="file://$PROJECT_DIR$/Analyst.cpp" />
     <entry file="file://$PROJECT_DIR$/main.cpp">
@@ -730,7 +576,7 @@
         <state relative-caret-position="120">
           <caret line="8" column="12" lean-forward="false" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
           <folding>
-            <element signature="e#0#21#0" expanded="true" />
+            <element signature="e#0#21#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -746,46 +592,51 @@
     <entry file="file://$PROJECT_DIR$/Comparer.cpp" />
     <entry file="file://$PROJECT_DIR$/PurchaseSale.cpp" />
     <entry file="file://$PROJECT_DIR$/Importer.h" />
-    <entry file="file://$PROJECT_DIR$/../../HW1/WeatherAnalyzer/Utils.cpp" />
-    <entry file="file://$PROJECT_DIR$/../../HW1/WeatherAnalyzer/Station.cpp" />
+    <entry file="file://$USER_HOME$/HW1/WeatherAnalyzer/Utils.cpp" />
+    <entry file="file://$USER_HOME$/HW1/WeatherAnalyzer/Station.cpp" />
     <entry file="file://$PROJECT_DIR$/Importer.cpp" />
-    <entry file="file://$PROJECT_DIR$/../../HW1/WeatherAnalyzer/Region.cpp" />
+    <entry file="file://$USER_HOME$/HW1/WeatherAnalyzer/Region.cpp" />
     <entry file="file://$PROJECT_DIR$/ReportGenerator.cpp" />
     <entry file="file://$PROJECT_DIR$/ReportGenerator.h" />
     <entry file="file://$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" />
-    <entry file="file://$PROJECT_DIR$/ExpectedOutput/scenario2.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ExpectedOutput/scenario1.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/PurchaseSale.h" />
     <entry file="file://$PROJECT_DIR$/PurchaseSale.cpp" />
     <entry file="file://$PROJECT_DIR$/scenario1.txt" />
     <entry file="file://$PROJECT_DIR$/scenario2.txt" />
-    <entry file="file://$PROJECT_DIR$/../../cs1440s17-instructor/HW2/AnalystComparer/main.cpp" />
-    <entry file="file://$PROJECT_DIR$/../../cs1440s17-instructor/HW2/AnalystComparer/Comparer.cpp" />
-    <entry file="file://$PROJECT_DIR$/../../cs1440s17-instructor/HW2/AnalystComparer/Comparer.h" />
-    <entry file="file://$PROJECT_DIR$/Utils.h">
+    <entry file="file://$USER_HOME$/cs1440s17-instructor/HW2/AnalystComparer/main.cpp" />
+    <entry file="file://$USER_HOME$/cs1440s17-instructor/HW2/AnalystComparer/Comparer.cpp" />
+    <entry file="file://$USER_HOME$/cs1440s17-instructor/HW2/AnalystComparer/Comparer.h" />
+    <entry file="file://$USER_HOME$/cs1440s17-instructor/HW2/AnalystComparer/Constants.h" />
+    <entry file="file://$PROJECT_DIR$/Utils.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="18" column="60" lean-forward="false" selection-start-line="18" selection-start-column="60" selection-end-line="18" selection-end-column="60" />
+        <state relative-caret-position="49">
+          <caret line="91" column="23" lean-forward="true" selection-start-line="91" selection-start-column="23" selection-end-line="91" selection-end-column="23" />
+          <folding>
+            <element signature="e#47#67#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../cs1440s17-instructor/HW2/AnalystComparer/Constants.h" />
-    <entry file="file://$PROJECT_DIR$/Data/mgr.csv">
+    <entry file="file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1/vector">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        <state relative-caret-position="118">
+          <caret line="1592" column="0" lean-forward="false" selection-start-line="1592" selection-start-column="0" selection-end-line="1592" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1/string">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="1382" column="0" lean-forward="false" selection-start-line="1382" selection-start-column="0" selection-end-line="1382" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1/algorithm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="864" column="0" lean-forward="false" selection-start-line="864" selection-start-column="0" selection-end-line="864" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -798,26 +649,82 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Output/OutputFile.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExpectedOutput/OutputFile.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Data/trs.csv">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="44" lean-forward="false" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Constants.h">
+    <entry file="file://$PROJECT_DIR$/Data/mgr.csv">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        <state relative-caret-position="180">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Utils.cpp">
+    <entry file="file://$PROJECT_DIR$/ExpectedOutput/scenario2.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        <state relative-caret-position="255">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/History.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="6" column="27" lean-forward="false" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExpectedOutput/outputFile.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExpectedOutput/scenario1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="24" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/outputFile.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Analyst.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="64" column="0" lean-forward="false" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -830,65 +737,87 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Comparer.h">
+    <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="371">
-          <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+        <state relative-caret-position="180">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mgr.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PurchaseSales.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trs.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Comparer.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
-          <caret line="50" column="0" lean-forward="false" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="27" lean-forward="false" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+        <state relative-caret-position="109">
+          <caret line="201" column="0" lean-forward="false" selection-start-line="201" selection-start-column="0" selection-end-line="201" selection-end-column="0" />
           <folding>
-            <element signature="e#0#21#0" expanded="true" />
+            <element signature="e#47#66#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Analyst.cpp">
+    <entry file="file://$PROJECT_DIR$/Constants.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="150">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Analyst.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="22" lean-forward="false" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
-          <folding />
+        <state relative-caret-position="315">
+          <caret line="27" column="21" lean-forward="true" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+          <folding>
+            <element signature="e#113#132#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/History.cpp">
+    <entry file="file://$PROJECT_DIR$/Comparer.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="238">
+          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding>
+            <element signature="e#114#132#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/History.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="40" lean-forward="false" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
-          <folding />
+        <state relative-caret-position="180">
+          <caret line="12" column="13" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding>
+            <element signature="e#114#140#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PurchaseSales.cpp">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -898,8 +827,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/PurchaseSales.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        <state relative-caret-position="326">
+          <caret line="23" column="11" lean-forward="false" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
+          <folding>
+            <element signature="e#125#144#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Utils.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="10" column="5" lean-forward="false" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
           <folding />
         </state>
       </provider>

@@ -5,11 +5,18 @@
 #ifndef ANALYSTCOMPARER_HISTORY_H
 #define ANALYSTCOMPARER_HISTORY_H
 
+#include "PurchaseSales.h"
+#include <vector>
 
 class History {
+public:
+    History(int simDays, int seedMon, int numRecords, ifstream &inputFile);
     int simulationDays;
-    int seedMoney;
-    PurchaseSales myPurchaseSales[1000];
+    double seedMoney;
+    int numRecords;
+    PurchaseSales *myHolder;
+    vector<PurchaseSales> myPurchaseSales;
+
 
 };
 

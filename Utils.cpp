@@ -84,3 +84,29 @@ std::string centerString(const std::string& str, int width)
 
     return tmp;
 }
+
+int convertStringToInt(const std::string& s, bool* valid)
+{
+    int result = 0;
+    if (valid!= nullptr)
+        *valid = false;
+
+    std::size_t numberOfConvertedCharacters = 0;
+    if (s!="")
+    {
+        try {
+            std::string trimmedString = trim(s);
+            result = std::stoi(trimmedString, &numberOfConvertedCharacters);
+            if (valid!=nullptr && numberOfConvertedCharacters==trimmedString.length())
+                *valid = true;
+            else if (numberOfConvertedCharacters!=trimmedString.length())
+                result = 0;
+        }
+        catch (std::exception)
+        {
+            // do nothing, let the result remain 0 and the valid flag false
+        }
+    }
+
+    return result;
+}

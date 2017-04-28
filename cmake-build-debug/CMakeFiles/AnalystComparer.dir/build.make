@@ -43,10 +43,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/arisemery/Repositories/cs1440s17-shared/AnalystComparer
+CMAKE_SOURCE_DIR = /Users/arisemery/CLionProjects/AnalystComparer
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/arisemery/Repositories/cs1440s17-shared/AnalystComparer/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/arisemery/CLionProjects/AnalystComparer/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/AnalystComparer.dir/depend.make
@@ -59,16 +59,16 @@ include CMakeFiles/AnalystComparer.dir/flags.make
 
 CMakeFiles/AnalystComparer.dir/main.cpp.o: CMakeFiles/AnalystComparer.dir/flags.make
 CMakeFiles/AnalystComparer.dir/main.cpp.o: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/arisemery/Repositories/cs1440s17-shared/AnalystComparer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/AnalystComparer.dir/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/AnalystComparer.dir/main.cpp.o -c /Users/arisemery/Repositories/cs1440s17-shared/AnalystComparer/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/arisemery/CLionProjects/AnalystComparer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/AnalystComparer.dir/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/AnalystComparer.dir/main.cpp.o -c /Users/arisemery/CLionProjects/AnalystComparer/main.cpp
 
 CMakeFiles/AnalystComparer.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AnalystComparer.dir/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/arisemery/Repositories/cs1440s17-shared/AnalystComparer/main.cpp > CMakeFiles/AnalystComparer.dir/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/arisemery/CLionProjects/AnalystComparer/main.cpp > CMakeFiles/AnalystComparer.dir/main.cpp.i
 
 CMakeFiles/AnalystComparer.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AnalystComparer.dir/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/arisemery/Repositories/cs1440s17-shared/AnalystComparer/main.cpp -o CMakeFiles/AnalystComparer.dir/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/arisemery/CLionProjects/AnalystComparer/main.cpp -o CMakeFiles/AnalystComparer.dir/main.cpp.s
 
 CMakeFiles/AnalystComparer.dir/main.cpp.o.requires:
 
@@ -83,16 +83,16 @@ CMakeFiles/AnalystComparer.dir/main.cpp.o.provides.build: CMakeFiles/AnalystComp
 
 CMakeFiles/AnalystComparer.dir/Utils.cpp.o: CMakeFiles/AnalystComparer.dir/flags.make
 CMakeFiles/AnalystComparer.dir/Utils.cpp.o: ../Utils.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/arisemery/Repositories/cs1440s17-shared/AnalystComparer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/AnalystComparer.dir/Utils.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/AnalystComparer.dir/Utils.cpp.o -c /Users/arisemery/Repositories/cs1440s17-shared/AnalystComparer/Utils.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/arisemery/CLionProjects/AnalystComparer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/AnalystComparer.dir/Utils.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/AnalystComparer.dir/Utils.cpp.o -c /Users/arisemery/CLionProjects/AnalystComparer/Utils.cpp
 
 CMakeFiles/AnalystComparer.dir/Utils.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AnalystComparer.dir/Utils.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/arisemery/Repositories/cs1440s17-shared/AnalystComparer/Utils.cpp > CMakeFiles/AnalystComparer.dir/Utils.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/arisemery/CLionProjects/AnalystComparer/Utils.cpp > CMakeFiles/AnalystComparer.dir/Utils.cpp.i
 
 CMakeFiles/AnalystComparer.dir/Utils.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AnalystComparer.dir/Utils.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/arisemery/Repositories/cs1440s17-shared/AnalystComparer/Utils.cpp -o CMakeFiles/AnalystComparer.dir/Utils.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/arisemery/CLionProjects/AnalystComparer/Utils.cpp -o CMakeFiles/AnalystComparer.dir/Utils.cpp.s
 
 CMakeFiles/AnalystComparer.dir/Utils.cpp.o.requires:
 
@@ -107,16 +107,16 @@ CMakeFiles/AnalystComparer.dir/Utils.cpp.o.provides.build: CMakeFiles/AnalystCom
 
 CMakeFiles/AnalystComparer.dir/Comparer.cpp.o: CMakeFiles/AnalystComparer.dir/flags.make
 CMakeFiles/AnalystComparer.dir/Comparer.cpp.o: ../Comparer.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/arisemery/Repositories/cs1440s17-shared/AnalystComparer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/AnalystComparer.dir/Comparer.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/AnalystComparer.dir/Comparer.cpp.o -c /Users/arisemery/Repositories/cs1440s17-shared/AnalystComparer/Comparer.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/arisemery/CLionProjects/AnalystComparer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/AnalystComparer.dir/Comparer.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/AnalystComparer.dir/Comparer.cpp.o -c /Users/arisemery/CLionProjects/AnalystComparer/Comparer.cpp
 
 CMakeFiles/AnalystComparer.dir/Comparer.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AnalystComparer.dir/Comparer.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/arisemery/Repositories/cs1440s17-shared/AnalystComparer/Comparer.cpp > CMakeFiles/AnalystComparer.dir/Comparer.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/arisemery/CLionProjects/AnalystComparer/Comparer.cpp > CMakeFiles/AnalystComparer.dir/Comparer.cpp.i
 
 CMakeFiles/AnalystComparer.dir/Comparer.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AnalystComparer.dir/Comparer.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/arisemery/Repositories/cs1440s17-shared/AnalystComparer/Comparer.cpp -o CMakeFiles/AnalystComparer.dir/Comparer.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/arisemery/CLionProjects/AnalystComparer/Comparer.cpp -o CMakeFiles/AnalystComparer.dir/Comparer.cpp.s
 
 CMakeFiles/AnalystComparer.dir/Comparer.cpp.o.requires:
 
@@ -131,16 +131,16 @@ CMakeFiles/AnalystComparer.dir/Comparer.cpp.o.provides.build: CMakeFiles/Analyst
 
 CMakeFiles/AnalystComparer.dir/Analyst.cpp.o: CMakeFiles/AnalystComparer.dir/flags.make
 CMakeFiles/AnalystComparer.dir/Analyst.cpp.o: ../Analyst.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/arisemery/Repositories/cs1440s17-shared/AnalystComparer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/AnalystComparer.dir/Analyst.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/AnalystComparer.dir/Analyst.cpp.o -c /Users/arisemery/Repositories/cs1440s17-shared/AnalystComparer/Analyst.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/arisemery/CLionProjects/AnalystComparer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/AnalystComparer.dir/Analyst.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/AnalystComparer.dir/Analyst.cpp.o -c /Users/arisemery/CLionProjects/AnalystComparer/Analyst.cpp
 
 CMakeFiles/AnalystComparer.dir/Analyst.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AnalystComparer.dir/Analyst.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/arisemery/Repositories/cs1440s17-shared/AnalystComparer/Analyst.cpp > CMakeFiles/AnalystComparer.dir/Analyst.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/arisemery/CLionProjects/AnalystComparer/Analyst.cpp > CMakeFiles/AnalystComparer.dir/Analyst.cpp.i
 
 CMakeFiles/AnalystComparer.dir/Analyst.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AnalystComparer.dir/Analyst.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/arisemery/Repositories/cs1440s17-shared/AnalystComparer/Analyst.cpp -o CMakeFiles/AnalystComparer.dir/Analyst.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/arisemery/CLionProjects/AnalystComparer/Analyst.cpp -o CMakeFiles/AnalystComparer.dir/Analyst.cpp.s
 
 CMakeFiles/AnalystComparer.dir/Analyst.cpp.o.requires:
 
@@ -155,16 +155,16 @@ CMakeFiles/AnalystComparer.dir/Analyst.cpp.o.provides.build: CMakeFiles/AnalystC
 
 CMakeFiles/AnalystComparer.dir/History.cpp.o: CMakeFiles/AnalystComparer.dir/flags.make
 CMakeFiles/AnalystComparer.dir/History.cpp.o: ../History.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/arisemery/Repositories/cs1440s17-shared/AnalystComparer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/AnalystComparer.dir/History.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/AnalystComparer.dir/History.cpp.o -c /Users/arisemery/Repositories/cs1440s17-shared/AnalystComparer/History.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/arisemery/CLionProjects/AnalystComparer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/AnalystComparer.dir/History.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/AnalystComparer.dir/History.cpp.o -c /Users/arisemery/CLionProjects/AnalystComparer/History.cpp
 
 CMakeFiles/AnalystComparer.dir/History.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AnalystComparer.dir/History.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/arisemery/Repositories/cs1440s17-shared/AnalystComparer/History.cpp > CMakeFiles/AnalystComparer.dir/History.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/arisemery/CLionProjects/AnalystComparer/History.cpp > CMakeFiles/AnalystComparer.dir/History.cpp.i
 
 CMakeFiles/AnalystComparer.dir/History.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AnalystComparer.dir/History.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/arisemery/Repositories/cs1440s17-shared/AnalystComparer/History.cpp -o CMakeFiles/AnalystComparer.dir/History.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/arisemery/CLionProjects/AnalystComparer/History.cpp -o CMakeFiles/AnalystComparer.dir/History.cpp.s
 
 CMakeFiles/AnalystComparer.dir/History.cpp.o.requires:
 
@@ -179,16 +179,16 @@ CMakeFiles/AnalystComparer.dir/History.cpp.o.provides.build: CMakeFiles/AnalystC
 
 CMakeFiles/AnalystComparer.dir/PurchaseSales.cpp.o: CMakeFiles/AnalystComparer.dir/flags.make
 CMakeFiles/AnalystComparer.dir/PurchaseSales.cpp.o: ../PurchaseSales.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/arisemery/Repositories/cs1440s17-shared/AnalystComparer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/AnalystComparer.dir/PurchaseSales.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/AnalystComparer.dir/PurchaseSales.cpp.o -c /Users/arisemery/Repositories/cs1440s17-shared/AnalystComparer/PurchaseSales.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/arisemery/CLionProjects/AnalystComparer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/AnalystComparer.dir/PurchaseSales.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/AnalystComparer.dir/PurchaseSales.cpp.o -c /Users/arisemery/CLionProjects/AnalystComparer/PurchaseSales.cpp
 
 CMakeFiles/AnalystComparer.dir/PurchaseSales.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AnalystComparer.dir/PurchaseSales.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/arisemery/Repositories/cs1440s17-shared/AnalystComparer/PurchaseSales.cpp > CMakeFiles/AnalystComparer.dir/PurchaseSales.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/arisemery/CLionProjects/AnalystComparer/PurchaseSales.cpp > CMakeFiles/AnalystComparer.dir/PurchaseSales.cpp.i
 
 CMakeFiles/AnalystComparer.dir/PurchaseSales.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AnalystComparer.dir/PurchaseSales.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/arisemery/Repositories/cs1440s17-shared/AnalystComparer/PurchaseSales.cpp -o CMakeFiles/AnalystComparer.dir/PurchaseSales.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/arisemery/CLionProjects/AnalystComparer/PurchaseSales.cpp -o CMakeFiles/AnalystComparer.dir/PurchaseSales.cpp.s
 
 CMakeFiles/AnalystComparer.dir/PurchaseSales.cpp.o.requires:
 
@@ -221,7 +221,7 @@ AnalystComparer: CMakeFiles/AnalystComparer.dir/History.cpp.o
 AnalystComparer: CMakeFiles/AnalystComparer.dir/PurchaseSales.cpp.o
 AnalystComparer: CMakeFiles/AnalystComparer.dir/build.make
 AnalystComparer: CMakeFiles/AnalystComparer.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/arisemery/Repositories/cs1440s17-shared/AnalystComparer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable AnalystComparer"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/arisemery/CLionProjects/AnalystComparer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable AnalystComparer"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/AnalystComparer.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -243,6 +243,6 @@ CMakeFiles/AnalystComparer.dir/clean:
 .PHONY : CMakeFiles/AnalystComparer.dir/clean
 
 CMakeFiles/AnalystComparer.dir/depend:
-	cd /Users/arisemery/Repositories/cs1440s17-shared/AnalystComparer/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/arisemery/Repositories/cs1440s17-shared/AnalystComparer /Users/arisemery/Repositories/cs1440s17-shared/AnalystComparer /Users/arisemery/Repositories/cs1440s17-shared/AnalystComparer/cmake-build-debug /Users/arisemery/Repositories/cs1440s17-shared/AnalystComparer/cmake-build-debug /Users/arisemery/Repositories/cs1440s17-shared/AnalystComparer/cmake-build-debug/CMakeFiles/AnalystComparer.dir/DependInfo.cmake --color=$(COLOR)
+	cd /Users/arisemery/CLionProjects/AnalystComparer/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/arisemery/CLionProjects/AnalystComparer /Users/arisemery/CLionProjects/AnalystComparer /Users/arisemery/CLionProjects/AnalystComparer/cmake-build-debug /Users/arisemery/CLionProjects/AnalystComparer/cmake-build-debug /Users/arisemery/CLionProjects/AnalystComparer/cmake-build-debug/CMakeFiles/AnalystComparer.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/AnalystComparer.dir/depend
 

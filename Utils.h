@@ -9,6 +9,7 @@
 #include <fstream>
 
 bool split(const std::string& s, char delimiter, std::string elements[], int expectedNumberOfElements);
+int convertStringToInt(const std::string& s, bool* valid = nullptr);
 
 std::string getTrimmedLine(std::ifstream& inputStream);
 std::string trim(const std::string& str);
