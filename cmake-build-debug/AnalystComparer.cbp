@@ -95,6 +95,18 @@
 		<Unit filename="/Users/arisemery/Repositories/cs1440s17-shared/AnalystComparer/Constants.h">
 			<Option target="AnalystComparer"/>
 		</Unit>
+		<Unit filename="/Users/arisemery/Repositories/cs1440s17-shared/AnalystComparer/History.cpp">
+			<Option target="AnalystComparer"/>
+		</Unit>
+		<Unit filename="/Users/arisemery/Repositories/cs1440s17-shared/AnalystComparer/History.h">
+			<Option target="AnalystComparer"/>
+		</Unit>
+		<Unit filename="/Users/arisemery/Repositories/cs1440s17-shared/AnalystComparer/PurchaseSales.cpp">
+			<Option target="AnalystComparer"/>
+		</Unit>
+		<Unit filename="/Users/arisemery/Repositories/cs1440s17-shared/AnalystComparer/PurchaseSales.h">
+			<Option target="AnalystComparer"/>
+		</Unit>
 		<Unit filename="/Users/arisemery/Repositories/cs1440s17-shared/AnalystComparer/Utils.cpp">
 			<Option target="AnalystComparer"/>
 		</Unit>

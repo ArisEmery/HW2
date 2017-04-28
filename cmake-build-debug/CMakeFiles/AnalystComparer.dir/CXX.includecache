@@ -6,6 +6,12 @@
 
 #IncludeRegexTransform: 
 
+/Users/arisemery/Repositories/cs1440s17-shared/AnalystComparer/Analyst.cpp
+Analyst.h
+/Users/arisemery/Repositories/cs1440s17-shared/AnalystComparer/Analyst.h
+
+/Users/arisemery/Repositories/cs1440s17-shared/AnalystComparer/Analyst.h
+
 /Users/arisemery/Repositories/cs1440s17-shared/AnalystComparer/Comparer.cpp
 iostream
 -
@@ -47,4 +53,6 @@ fstream
 /Users/arisemery/Repositories/cs1440s17-shared/AnalystComparer/main.cpp
 Comparer.h
 /Users/arisemery/Repositories/cs1440s17-shared/AnalystComparer/Comparer.h
+iostream
+-
 

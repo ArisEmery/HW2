@@ -177,6 +177,60 @@ Comparer.cpp.s:
 	$(MAKE) -f CMakeFiles/AnalystComparer.dir/build.make CMakeFiles/AnalystComparer.dir/Comparer.cpp.s
 .PHONY : Comparer.cpp.s
 
+History.o: History.cpp.o
+
+.PHONY : History.o
+
+# target to build an object file
+History.cpp.o:
+	$(MAKE) -f CMakeFiles/AnalystComparer.dir/build.make CMakeFiles/AnalystComparer.dir/History.cpp.o
+.PHONY : History.cpp.o
+
+History.i: History.cpp.i
+
+.PHONY : History.i
+
+# target to preprocess a source file
+History.cpp.i:
+	$(MAKE) -f CMakeFiles/AnalystComparer.dir/build.make CMakeFiles/AnalystComparer.dir/History.cpp.i
+.PHONY : History.cpp.i
+
+History.s: History.cpp.s
+
+.PHONY : History.s
+
+# target to generate assembly for a file
+History.cpp.s:
+	$(MAKE) -f CMakeFiles/AnalystComparer.dir/build.make CMakeFiles/AnalystComparer.dir/History.cpp.s
+.PHONY : History.cpp.s
+
+PurchaseSales.o: PurchaseSales.cpp.o
+
+.PHONY : PurchaseSales.o
+
+# target to build an object file
+PurchaseSales.cpp.o:
+	$(MAKE) -f CMakeFiles/AnalystComparer.dir/build.make CMakeFiles/AnalystComparer.dir/PurchaseSales.cpp.o
+.PHONY : PurchaseSales.cpp.o
+
+PurchaseSales.i: PurchaseSales.cpp.i
+
+.PHONY : PurchaseSales.i
+
+# target to preprocess a source file
+PurchaseSales.cpp.i:
+	$(MAKE) -f CMakeFiles/AnalystComparer.dir/build.make CMakeFiles/AnalystComparer.dir/PurchaseSales.cpp.i
+.PHONY : PurchaseSales.cpp.i
+
+PurchaseSales.s: PurchaseSales.cpp.s
+
+.PHONY : PurchaseSales.s
+
+# target to generate assembly for a file
+PurchaseSales.cpp.s:
+	$(MAKE) -f CMakeFiles/AnalystComparer.dir/build.make CMakeFiles/AnalystComparer.dir/PurchaseSales.cpp.s
+.PHONY : PurchaseSales.cpp.s
+
 Utils.o: Utils.cpp.o
 
 .PHONY : Utils.o
@@ -246,6 +300,12 @@ help:
 	@echo "... Comparer.o"
 	@echo "... Comparer.i"
 	@echo "... Comparer.s"
+	@echo "... History.o"
+	@echo "... History.i"
+	@echo "... History.s"
+	@echo "... PurchaseSales.o"
+	@echo "... PurchaseSales.i"
+	@echo "... PurchaseSales.s"
 	@echo "... Utils.o"
 	@echo "... Utils.i"
 	@echo "... Utils.s"
